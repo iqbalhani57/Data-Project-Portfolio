@@ -6,22 +6,22 @@ Hi, I'm **Adi**! 🎓 I have a **strong statistical background** with a degree i
 
 💡 I am always looking for opportunities to **enhance my knowledge, skills, and experience**, whether through **collaborative teamwork** or **independent projects**. I thrive on solving challenging problems and am eager to apply my analytical mindset to impactful data-driven solutions.  
 
-📄 [View My CV](#)  
+📄 [View My CV]([#](https://github.com/iqbalhani57/Data-Project-Portfolio/blob/main/CV%20Iqbal%20Hanif.pdf))  
 
 🔍 This repository serves as my **Data Project Portfolio**, where I showcase my **recent projects in data analysis and dashboarding**, highlighting my skills in extracting insights, building interactive dashboards, and visualizing data for informed decision-making.
 
 # 📂 Table of Contents  
 
-## 📊 [Data Wrangling and EDA (Exploratory Data Analysis) Project] (# Data Wrangling and EDA (Exploratory Data Analysis) Project)  
+- 📊 [Data Wrangling and Exploratory Data Analysis Project](#Data-Wrangling-and-Exploratory-Data-Analysis-Project)  
 
-## 📈 [Forecasting Project](# Forecasting Project)  
+- 📈 [Forecasting Project](#Forecasting-Project)  
 
-## 🤖 [Machine Learning Project](# Machine Learning Project)  
+- 🤖 [Machine Learning Project](#Machine-Learning-Project)  
 
-## 🚀 [Other Exciting Project](# Other Exciting Project)  
+- 🚀 [Other Exciting Project](#Other-Exciting-Project)  
 
 
-# Data Wrangling and EDA (Exploratory Data Analysis) Project
+# Data Wrangling and Exploratory Data Analysis Project
 1. [Link Text](URL)
 2. [Link Text](URL)
 3. [Link Text](URL)
