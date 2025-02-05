@@ -6,7 +6,7 @@ Hi, I'm **Adi**! 🎓 I am an **undergraduate student in Statistics at Universit
 
 💡 I am always looking for opportunities to **enhance my knowledge, skills, and experience**, whether through **collaborative teamwork** or **independent projects**. I thrive on solving challenging problems and am eager to apply my analytical mindset to impactful data-driven solutions.  
 
-📄 [View My CV](https://github.com/iqbalhani57/Data-Project-Portfolio/blob/main/CV%20Iqbal%20Hanif.pdf)
+📄 [View My CV](https://github.com/iqbalhani57/Data-Project-Portfolio/blob/main/Resume-Iqbal%20Hanif.pdf)
 
 🔍 This repository serves as my **Data Project Portfolio**, where I showcase my **recent projects in data analysis and dashboarding**, highlighting my skills in extracting insights, building interactive dashboards, and visualizing data for informed decision-making.
 
