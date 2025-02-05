@@ -1,8 +1,8 @@
 # 🚀 About Me  
 
-Hi, I'm **Adi**! 🎓 I have a **strong statistical background** with a degree in **Statistics from Universitas Gadjah Mada (UGM)**. My expertise lies in **data analysis, statistical modeling, and machine learning**, enabling me to transform raw data into meaningful insights and data-driven solutions.  
+Hi, I'm **Adi**! 🎓 I am an **undergraduate student in Statistics at Universitas Gadjah Mada (UGM)** with a strong interest in **data analysis, statistical modeling, and machine learning**. I enjoy working with data to uncover patterns, extract insights, and develop data-driven solutions.    
 
-📊 With a deep passion for **exploring data science**, I enjoy working with complex datasets, uncovering hidden patterns, and leveraging **predictive modeling** to solve real-world problems. In my free time, I love **experimenting with new data analysis tools and machine learning techniques** to continuously expand my expertise.  
+📊 With a deep passion for **exploring data**, I enjoy working with complex datasets, uncovering hidden patterns, and leveraging predictive modeling to solve real-world problems. In my free time, I love **experimenting with new data analysis tools and machine learning techniques** to continuously expand my expertise.  
 
 💡 I am always looking for opportunities to **enhance my knowledge, skills, and experience**, whether through **collaborative teamwork** or **independent projects**. I thrive on solving challenging problems and am eager to apply my analytical mindset to impactful data-driven solutions.  
 
